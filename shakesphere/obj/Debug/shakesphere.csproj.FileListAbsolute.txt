@@ -1,0 +1,6 @@
+c:\users\wecancodeit\documents\visual studio 2015\Projects\shakesphere\shakesphere\bin\Debug\shakesphere.exe.config
+c:\users\wecancodeit\documents\visual studio 2015\Projects\shakesphere\shakesphere\bin\Debug\shakesphere.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\shakesphere\shakesphere\bin\Debug\shakesphere.pdb
+c:\users\wecancodeit\documents\visual studio 2015\Projects\shakesphere\shakesphere\obj\Debug\shakesphere.csprojResolveAssemblyReference.cache
+c:\users\wecancodeit\documents\visual studio 2015\Projects\shakesphere\shakesphere\obj\Debug\shakesphere.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\shakesphere\shakesphere\obj\Debug\shakesphere.pdb
